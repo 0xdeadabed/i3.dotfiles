@@ -1,0 +1,447 @@
+Oct 22 20:44 : update: added /Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a
+Oct 22 20:45 : update: updating /Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a
+Oct 22 20:45 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 21:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 21:08 : update: added /Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a
+Oct 22 21:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 21:24 : update: added /Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a
+Oct 22 21:24 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 21:24 : update: added /Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a
+Oct 22 21:45 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 21:51 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 22 22:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 22:03 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 22 22:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 22:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 22:05 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 22:11 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 22:11 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 22 22:15 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 22 22:15 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+Oct 22 22:15 : update: added /Scandroid - Awakening With You (PYLOT Remix).opus
+Oct 22 22:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 22 22:20 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 06:33 : exception: Failed to open audio output
+Oct 23 06:37 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 06:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 06:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 06:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 23 06:42 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 23 06:42 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 23 06:42 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+Oct 23 06:45 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 06:46 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 23 08:12 : player: played "Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a"
+Oct 23 08:19 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 09:30 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 09:35 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 23 09:35 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 09:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 09:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 09:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 09:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 09:48 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 23 10:54 : player: played "Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a"
+Oct 23 10:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 10:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 10:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 10:59 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 23 10:59 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 11:10 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 11:10 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 23 11:24 : player: played "Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a"
+Oct 23 11:32 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 11:32 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 11:37 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 11:37 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 11:43 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 11:43 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 23 11:53 : player: played "Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a"
+Oct 23 14:40 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 15:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 15:34 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 15:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 15:39 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 15:45 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 15:45 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 23 18:22 : player: played "Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a"
+Oct 23 19:04 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 19:04 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 19:09 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 19:09 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 19:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 19:15 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 23 19:32 : update: added /Dance With The Dead - The Shape [FULL ALBUM].opus
+Oct 23 19:36 : update: removing Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a
+Oct 23 20:21 : player: played "Dance With The Dead - The Shape [FULL ALBUM].opus"
+Oct 23 20:21 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 20:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 20:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 20:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 23 20:46 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 23 20:46 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 23 20:52 : exception: Failed to decode /home/evil/music/Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a; Failed to open '/home/evil/music/Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a': No such file or directory
+Oct 23 20:52 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 23 20:52 : player: played "Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a"
+Oct 23 20:52 : exception: Failed to decode /home/evil/music/Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a; Failed to open '/home/evil/music/Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a': No such file or directory
+Oct 23 20:52 : player: played "Scandroid - Scandroid (Full Album)-wfxDIyYU9nM.m4a"
+Oct 23 21:16 : player: played "Dance With The Dead - The Shape [FULL ALBUM].opus"
+Oct 24 08:11 : update: removing Dance With The Dead - The Shape [FULL ALBUM].opus
+Oct 24 08:12 : update: added /DANCE WITH THE DEAD - The Man Who Made a Monster.m4a
+Oct 24 08:13 : update: added /Perturbator - Venger [feat. Greta Link] (Unofficial Videoclip).opus
+Oct 24 08:14 : update: added /Wolf and Raven - On The Run.opus
+Oct 24 08:16 : update: added /The Weeknd - Blinding Lights (80s Remix).m4a
+Oct 24 08:17 : update: added /Linkin Park - In The End (Fury Weekend remix).m4a
+Oct 24 08:17 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 24 08:23 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 24 08:44 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 24 08:50 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 24 08:55 : player: played "The Weeknd - Blinding Lights (80s Remix).m4a"
+Oct 24 09:01 : player: played "Wolf and Raven - On The Run.opus"
+Oct 24 09:07 : player: played "Perturbator - Venger [feat. Greta Link] (Unofficial Videoclip).opus"
+Oct 24 09:11 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Oct 24 09:16 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 24 09:21 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 24 09:21 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 24 09:27 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 24 13:59 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 24 14:04 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 24 14:09 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Oct 24 14:14 : player: played "Perturbator - Venger [feat. Greta Link] (Unofficial Videoclip).opus"
+Oct 24 14:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 24 14:19 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 24 14:25 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 24 14:29 : player: played "The Weeknd - Blinding Lights (80s Remix).m4a"
+Oct 24 18:42 : player: played "Wolf and Raven - On The Run.opus"
+Oct 25 09:03 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 25 09:08 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 25 09:12 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Oct 25 14:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 25 20:13 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 27 12:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 27 12:52 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 27 12:57 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Oct 27 13:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 27 13:02 : player: played "Perturbator - Venger [feat. Greta Link] (Unofficial Videoclip).opus"
+Oct 27 13:08 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 27 13:12 : player: played "The Weeknd - Blinding Lights (80s Remix).m4a"
+Oct 27 13:18 : player: played "Wolf and Raven - On The Run.opus"
+Oct 28 13:09 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 28 13:14 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 28 13:49 : player: played "Perturbator - Venger [feat. Greta Link] (Unofficial Videoclip).opus"
+Oct 28 13:53 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Oct 28 13:58 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 28 15:03 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Oct 28 15:08 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 28 15:43 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 28 15:48 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 28 15:48 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 28 15:54 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 28 15:58 : player: played "The Weeknd - Blinding Lights (80s Remix).m4a"
+Oct 28 16:04 : player: played "Wolf and Raven - On The Run.opus"
+Oct 28 19:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 28 19:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 28 19:20 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 28 19:20 : player: played "Scandroid - Awakening With You (PYLOT Remix).opus"
+Oct 28 19:26 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Oct 28 19:30 : player: played "The Weeknd - Blinding Lights (80s Remix).m4a"
+Oct 28 19:36 : player: played "Wolf and Raven - On The Run.opus"
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 28 20:03 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 28 20:03 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 28 20:03 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 28 20:03 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 28 20:03 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+Oct 28 20:08 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Oct 28 20:13 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 28 20:17 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 28 20:38 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 28 20:38 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+Oct 28 22:49 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 29 12:36 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 29 12:41 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 29 13:41 : update: added /Void Stare - Cyberbrain Violation.mp3
+Oct 29 13:42 : update: added /CYBERTHING! - Zero Strike (feat. D-Noise).mp3
+Oct 29 13:43 : update: added /Future Fate - Prophecy.webm
+Oct 29 13:43 : update: added /Future Fate - Prophecy.mp3
+Oct 29 13:43 : update: removing Future Fate - Prophecy.webm
+Oct 29 13:43 : update: updating /Future Fate - Prophecy.mp3
+Oct 29 13:44 : update: added /DEADLIFE - Young Fury, Endure.webm
+Oct 29 13:44 : update: added /DEADLIFE - Young Fury, Endure.mp3
+Oct 29 13:44 : update: removing DEADLIFE - Young Fury, Endure.webm
+Oct 29 13:44 : update: updating /DEADLIFE - Young Fury, Endure.mp3
+Oct 29 13:46 : player: played "CYBERTHING! - Zero Strike (feat. D-Noise).mp3"
+Oct 29 13:46 : update: added /CD ROMantix - task_manager.webm
+Oct 29 13:46 : update: added /CD ROMantix - task_manager.mp3
+Oct 29 13:46 : update: removing CD ROMantix - task_manager.webm
+Oct 29 13:46 : update: updating /CD ROMantix - task_manager.mp3
+Oct 29 13:47 : update: added /Le Brick - Bloodline.mp3
+Oct 29 13:49 : update: added /Ward-iz - The Body Snatchers (Future Fate Remix).mp3
+Oct 29 13:49 : update: added /Daniel Deluxe - Panic Control.mp3
+Oct 29 13:50 : update: added /NukeTan - Turbocity.mp3
+Oct 29 13:51 : update: added /Turbo Knight - Cybertron.mp3
+Oct 29 13:52 : update: added /CYBERTHING! - Legal Carnage.mp3
+Oct 29 13:53 : update: added /Future Fate - Dangerous Data.mp3
+Oct 29 13:55 : update: added /Dav Dralleon - A L T E R E D E A T H.mp3
+Oct 29 13:56 : update: added /Absolute Valentine - DNA War (feat. Billy Mays Band).mp3
+Oct 29 13:57 : update: added /Francci - Senses.webm
+Oct 29 13:57 : update: added /Francci - Senses.mp3
+Oct 29 13:57 : update: removing Francci - Senses.webm
+Oct 29 13:57 : update: updating /Francci - Senses.mp3
+Oct 29 13:58 : update: added /Future Fate - Infinity Tech.mp3
+Oct 29 13:59 : update: added /Unknown Anomaly - Prime.mp3
+Oct 29 14:00 : update: added /Canned Resistor - Videomancer.mp3
+Oct 29 14:01 : update: added /Straplocked & Ray Gun Hero - Stalemate.mp3
+Oct 29 14:02 : update: added /CYBERTHING! - Everybody Dies.mp3
+Oct 29 14:04 : update: added /Gadgetor - Reagent.mp3
+Oct 29 14:04 : update: added /Dade Murphy - Collateral Damage.mp3
+Oct 29 14:14 : update: added /We Are Magonia - Apocalypse (Full Album).mp3
+Oct 29 14:14 : update: added /We Are Magonia - Apocalypse (Full Album).webm
+Oct 29 14:15 : update: removing We Are Magonia - Apocalypse (Full Album).webm
+Oct 29 14:15 : update: updating /We Are Magonia - Apocalypse (Full Album).mp3
+Oct 29 14:17 : update: added /ZOMBIENICK - IF YOU SCREAM YOU'RE DEAD.mp3
+Oct 29 14:17 : update: added /ZOMBIENICK - IF YOU SCREAM YOU'RE DEAD.webm
+Oct 29 14:17 : update: removing ZOMBIENICK - IF YOU SCREAM YOU'RE DEAD.webm
+Oct 29 14:17 : update: updating /ZOMBIENICK - IF YOU SCREAM YOU'RE DEAD.mp3
+Oct 29 14:18 : update: added /VHS-OST - Insert Coins.mp3
+Oct 29 14:20 : update: added /Unknown Anomaly - 4th Dimensional Travel.mp3
+Oct 29 14:21 : update: added /Gregorio Franco - Sacramental (Arcane Summoning Sequence).mp3
+Oct 29 14:23 : update: added /We Are Magonia - Electric Guillotine.mp3
+Oct 29 14:24 : update: added /Eyeshadow 2600 FM - Omicron Persei 69.mp3
+Oct 29 14:25 : update: added /Inexedra - Diode.mp3
+Oct 29 14:27 : update: added /ZOMBIENICK - HELL NIGHT.webm
+Oct 29 14:27 : update: added /ZOMBIENICK - HELL NIGHT.mp3
+Oct 29 14:27 : update: removing ZOMBIENICK - HELL NIGHT.webm
+Oct 29 14:27 : update: updating /ZOMBIENICK - HELL NIGHT.mp3
+Oct 29 14:28 : update: added /ROBORG - Midnight Murder (feat. NeoSlave).mp3
+Oct 29 14:29 : update: added /LLAIN - Eagle.mp3
+Oct 29 14:31 : update: added /Agent Murphy - Streets of Rage.mp3
+Oct 29 14:32 : update: added /Garth Knight - Cyber War.mp3
+Oct 29 14:32 : update: added /Garth Knight - Cyber War.webm
+Oct 29 14:32 : update: removing Garth Knight - Cyber War.webm
+Oct 29 14:32 : update: updating /Garth Knight - Cyber War.mp3
+Oct 29 14:33 : update: added /Maximum Turbodrive - That Fucking Nobody is John Wick.mp3
+Oct 29 14:33 : update: added /Maximum Turbodrive - That Fucking Nobody is John Wick.webm
+Oct 29 14:33 : update: removing Maximum Turbodrive - That Fucking Nobody is John Wick.webm
+Oct 29 14:33 : update: updating /Maximum Turbodrive - That Fucking Nobody is John Wick.mp3
+Oct 29 14:35 : update: added /DREDDD - OMEGA BEAMS.mp3
+Oct 29 14:36 : update: added /Aes Deniz - Death is a Mercy.mp3
+Oct 29 14:37 : update: added /ALIX 2084 - The End Justify The Means.mp3
+Oct 29 14:38 : update: added /Rob Juggernaut - Radioactive God.mp3
+Oct 29 14:39 : update: added /26Hate - Cybernetic War.mp3
+Oct 29 14:40 : update: added /Turboslash - Drug.mp3
+Oct 29 14:41 : update: added /ZOMBIENICK - MIDVALE.webm
+Oct 29 14:41 : update: added /ZOMBIENICK - MIDVALE.mp3
+Oct 29 14:42 : update: removing ZOMBIENICK - MIDVALE.webm
+Oct 29 14:42 : update: updating /ZOMBIENICK - MIDVALE.mp3
+Oct 29 14:43 : update: added /Invsble City - Neon Crusader.mp3
+Oct 29 14:44 : update: added /Goremall - The Alley Killer.mp3
+Oct 29 14:44 : update: added /Goremall - The Alley Killer.webm
+Oct 29 14:44 : update: removing Goremall - The Alley Killer.webm
+Oct 29 14:44 : update: updating /Goremall - The Alley Killer.mp3
+Oct 29 14:45 : update: added /Fixions - Crimeware.mp3
+Oct 29 15:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 29 15:35 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 29 15:35 : player: played "CYBERTHING! - Everybody Dies.mp3"
+Oct 29 15:39 : player: played "CYBERTHING! - Legal Carnage.mp3"
+Oct 29 15:42 : player: played "CYBERTHING! - Zero Strike (feat. D-Noise).mp3"
+Oct 29 16:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 29 16:29 : player: played "Dade Murphy - Collateral Damage.mp3"
+Oct 29 16:34 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+ALSA lib pcm_dmix.c:1035:(snd_pcm_dmix_open) unable to open slave
+Oct 29 16:34 : exception: Failed to open "HDA Intel PCH" (alsa); Failed to open ALSA device "default": Device or resource busy
+Oct 29 16:37 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 29 16:37 : player: played "Daniel Deluxe - Panic Control.mp3"
+Oct 29 16:40 : player: played "Dav Dralleon - A L T E R E D E A T H.mp3"
+Oct 29 16:45 : player: played "DEADLIFE - Young Fury, Endure.mp3"
+Oct 29 16:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 29 16:50 : player: played "DREDDD - OMEGA BEAMS.mp3"
+Oct 29 16:54 : player: played "Eyeshadow 2600 FM - Omicron Persei 69.mp3"
+Oct 29 16:57 : player: played "Fixions - Crimeware.mp3"
+Oct 29 21:59 : player: played "26Hate - Cybernetic War.mp3"
+Oct 29 22:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 29 22:03 : player: played "26Hate - Cybernetic War.mp3"
+Oct 29 22:08 : player: played "Agent Murphy - Streets of Rage.mp3"
+Oct 29 22:12 : player: played "Aes Deniz - Death is a Mercy.mp3"
+Oct 29 22:17 : player: played "Invsble City - Neon Crusader.mp3"
+Oct 29 22:22 : player: played "Future Fate - Prophecy.mp3"
+Oct 29 22:27 : player: played "Rob Juggernaut - Radioactive God.mp3"
+Oct 29 22:30 : player: played "Turbo Knight - Cybertron.mp3"
+Oct 29 22:34 : player: played "Eyeshadow 2600 FM - Omicron Persei 69.mp3"
+Oct 29 22:37 : player: played "CYBERTHING! - Legal Carnage.mp3"
+Oct 29 22:43 : player: played "Wolf and Raven - On The Run.opus"
+Oct 29 22:48 : player: played "Agent Murphy - Streets of Rage.mp3"
+Oct 29 22:52 : player: played "Eyeshadow 2600 FM - Omicron Persei 69.mp3"
+Oct 29 22:58 : player: played "CYBERTHING! - Zero Strike (feat. D-Noise).mp3"
+Oct 29 22:58 : player: played "Garth Knight - Cyber War.mp3"
+Oct 30 07:07 : player: played "26Hate - Cybernetic War.mp3"
+Oct 30 07:11 : player: played "ALIX 2084 - The End Justify The Means.mp3"
+Oct 30 07:18 : player: played "Aes Deniz - Death is a Mercy.mp3"
+Oct 30 08:39 : player: played "CD ROMantix - task_manager.mp3"
+Oct 30 10:58 : exception: No such directory
+Oct 30 22:46 : player: played "26Hate - Cybernetic War.mp3"
+Oct 31 08:35 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 31 08:35 : player: played "26Hate - Cybernetic War.mp3"
+Oct 31 08:40 : player: played "Aes Deniz - Death is a Mercy.mp3"
+Oct 31 08:44 : player: played "Agent Murphy - Streets of Rage.mp3"
+Oct 31 08:47 : player: played "ALIX 2084 - The End Justify The Means.mp3"
+Oct 31 08:51 : player: played "Canned Resistor - Videomancer.mp3"
+Oct 31 08:58 : player: played "CD ROMantix - task_manager.mp3"
+Oct 31 09:01 : player: played "CYBERTHING! - Everybody Dies.mp3"
+Oct 31 09:04 : player: played "CYBERTHING! - Legal Carnage.mp3"
+Oct 31 09:08 : player: played "CYBERTHING! - Zero Strike (feat. D-Noise).mp3"
+Oct 31 09:11 : player: played "Dade Murphy - Collateral Damage.mp3"
+Oct 31 12:15 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Oct 31 12:17 : player: played "Daniel Deluxe - Panic Control.mp3"
+Oct 31 12:21 : player: played "Dav Dralleon - A L T E R E D E A T H.mp3"
+Oct 31 12:25 : player: played "DEADLIFE - Young Fury, Endure.mp3"
+Oct 31 12:29 : player: played "DREDDD - OMEGA BEAMS.mp3"
+Oct 31 16:25 : player: played "Eyeshadow 2600 FM - Omicron Persei 69.mp3"
+Oct 31 16:28 : player: played "Fixions - Crimeware.mp3"
+Oct 31 16:33 : player: played "Francci - Senses.mp3"
+Oct 31 16:36 : player: played "Future Fate - Dangerous Data.mp3"
+Oct 31 17:31 : player: played "Future Fate - Infinity Tech.mp3"
+Nov 01 12:40 : player: played "26Hate - Cybernetic War.mp3"
+Nov 01 14:51 : player: played "CYBERTHING! - Everybody Dies.mp3"
+Nov 17 13:08 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:08 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:12 : player: played "26Hate - Cybernetic War.mp3"
+Nov 17 13:13 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:14 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:14 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:19 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:23 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:25 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 17 13:29 : player: played "Goremall - The Alley Killer.mp3"
+Nov 17 13:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 17 13:29 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:33 : player: played "Gregorio Franco - Sacramental (Arcane Summoning Sequence).mp3"
+Nov 17 13:33 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 17 13:33 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 13:37 : player: played "Inexedra - Diode.mp3"
+Nov 17 14:16 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:16 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:16 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:16 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:20 : player: played "26Hate - Cybernetic War.mp3"
+Nov 17 14:23 : player: played "ALIX 2084 - The End Justify The Means.mp3"
+Nov 17 14:27 : player: played "Absolute Valentine - DNA War (feat. Billy Mays Band).mp3"
+Nov 17 14:30 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 17 14:32 : player: played "Maximum Turbodrive - That Fucking Nobody is John Wick.mp3"
+Nov 17 14:32 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:37 : player: played "Linkin Park - In The End (Fury Weekend remix).m4a"
+Nov 17 14:37 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:43 : player: played "Goremall - The Alley Killer.mp3"
+Nov 17 14:43 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:47 : player: played "Gregorio Franco - Sacramental (Arcane Summoning Sequence).mp3"
+Nov 17 14:47 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:50 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:51 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:51 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:51 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:51 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 14:52 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 17 15:06 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 17 15:09 : player: played "DEADLIFE - Young Fury, Endure.mp3"
+Nov 17 15:13 : output: Failed to flush filter on "HDA Intel PCH" (alsa): snd_pcm_writei() failed: Broken pipe
+Nov 17 15:13 : player: played "DREDDD - OMEGA BEAMS.mp3"
+Nov 18 09:54 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 18 09:54 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 18 09:58 : player: played "26Hate - Cybernetic War.mp3"
+Nov 20 16:45 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 20 16:45 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 20 16:45 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 20 16:45 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 21 12:27 : player: played "26Hate - Cybernetic War.mp3"
+Nov 23 16:12 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 23 16:12 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 23 16:16 : player: played "26Hate - Cybernetic War.mp3"
+Nov 23 16:20 : player: played "ALIX 2084 - The End Justify The Means.mp3"
+Nov 23 16:24 : player: played "Absolute Valentine - DNA War (feat. Billy Mays Band).mp3"
+Nov 23 16:28 : player: played "Aes Deniz - Death is a Mercy.mp3"
+Nov 23 16:32 : player: played "Agent Murphy - Streets of Rage.mp3"
+Nov 23 16:38 : player: played "CD ROMantix - task_manager.mp3"
+Nov 23 16:42 : player: played "CYBERTHING! - Everybody Dies.mp3"
+Nov 23 16:45 : player: played "CYBERTHING! - Legal Carnage.mp3"
+Nov 23 16:49 : player: played "CYBERTHING! - Zero Strike (feat. D-Noise).mp3"
+Nov 23 16:49 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 23 16:53 : player: played "Canned Resistor - Videomancer.mp3"
+Nov 23 16:53 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 23 16:53 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 23 16:58 : player: played "DANCE WITH THE DEAD - The Man Who Made a Monster.m4a"
+Nov 23 16:58 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 23 17:02 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 23 17:06 : player: played "26Hate - Cybernetic War.mp3"
+Nov 23 17:09 : player: played "ALIX 2084 - The End Justify The Means.mp3"
+Nov 23 17:13 : player: played "Absolute Valentine - DNA War (feat. Billy Mays Band).mp3"
+Nov 23 17:18 : player: played "Aes Deniz - Death is a Mercy.mp3"
+Nov 23 17:22 : player: played "Agent Murphy - Streets of Rage.mp3"
+Nov 23 17:28 : player: played "CD ROMantix - task_manager.mp3"
+Nov 23 17:31 : player: played "CYBERTHING! - Everybody Dies.mp3"
+Nov 23 17:35 : player: played "CYBERTHING! - Legal Carnage.mp3"
+Nov 23 17:35 : player: played "CYBERTHING! - Zero Strike (feat. D-Noise).mp3"
+Nov 24 09:30 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 24 09:30 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 24 09:31 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 24 09:32 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 24 12:21 : player: played "26Hate - Cybernetic War.mp3"
+Nov 25 21:25 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 25 21:25 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 25 21:43 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Nov 25 22:51 : player: played "26Hate - Cybernetic War.mp3"
+Dec 02 21:08 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 02 21:08 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 02 21:08 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 02 21:08 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 02 21:10 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 03 14:19 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Dec 03 18:42 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 03 18:42 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 03 18:42 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 04 19:40 : player: played "26Hate - Cybernetic War.mp3"
+Dec 07 22:12 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 07 22:12 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 07 22:59 : player: played "26Hate - Cybernetic War.mp3"
+Dec 08 11:51 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 08 11:52 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 08 20:38 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 08 20:39 : player: played "26Hate - Cybernetic War.mp3"
+Dec 09 10:56 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 09 10:56 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 09 11:00 : player: played "26Hate - Cybernetic War.mp3"
+Dec 09 22:57 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 09 23:01 : player: played "26Hate - Cybernetic War.mp3"
+Dec 09 23:03 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 09 23:05 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Dec 09 23:07 : player: played "26Hate - Cybernetic War.mp3"
+Dec 10 23:50 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 10 23:51 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Dec 10 23:51 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 11 01:05 : player: played "Scandroid - Neo Tokyo (Dance With The Dead Remix)-MkgR0SxmMKo.m4a"
+Dec 13 18:27 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 13 18:27 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 13 18:31 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 13 18:31 : output: Failed to open mixer for 'HDA Intel PCH': no such mixer control: PCM
+Dec 13 18:32 : player: played "26Hate - Cybernetic War.mp3"
+Jan 04 13:08 : mixer: Failed to read mixer for 'HDA Intel PCH': no such mixer control: PCM
